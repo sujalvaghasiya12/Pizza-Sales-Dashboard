@@ -1,4 +1,6 @@
 📊 Pizza Sales Dashboard
+
+
 🍕 Overview
 
 The Pizza Sales Dashboard is an interactive Power BI report that provides a complete overview of sales performance.
